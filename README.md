@@ -56,11 +56,8 @@ The goal is to make complex database operations accessible to managers and team 
 📈 Project Impact
 This project demonstrates how data analysts can build tools that bridge technical and business needs, making SQL-driven insights accessible to non-technical stakeholders. It highlights skills in SQL optimization, Python integration, and dashboard design — all critical for real-world analytics roles.
 
-👨‍💻 Contact
-
-Priyanshu
-
-Linkedin
-
-Github
+## 📬 Contact
+- [LinkedIn](https://www.linkedin.com/in/priyanshu-s-9b030a366/?trk=opento_sprofile_topcard)
+- [GitHub](https://github.com/priyanshush27)
+- [Email](mailto:priyanshush2722@gmail.com)
 
