@@ -34,7 +34,7 @@ The goal is to make complex database operations accessible to managers and team 
 
 ---
 
-## 📌 4 Strong Resume Pointers
+## 📌 4 Strong Pointers
 - **Designed and implemented advanced SQL operations** (views, stored procedures, functions) to manage inventory and supply chain workflows.  
 - **Built a Streamlit-powered dashboard** that enables non-technical users to interact with MySQL databases without writing SQL queries.  
 - **Developed multi-layered application workflows** (inventory, sales, operations) showcasing real-world business system design.  
